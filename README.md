@@ -1,4 +1,4 @@
-### Hi Hi, I'm Jeasonnow, a Frontend Engineer from China
+### Hi, I'm Jeasonnow, a Frontend Engineer from China
 
 - 🔭 I’m currently working on Seeyon.
 - 🌱 I’m currently learning to live for my interests.
