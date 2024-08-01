@@ -3,8 +3,8 @@
 <html>
   <table style="display: flex; flex-direction: row;">
     <div style="flex: 1;">
-      <p><-------- He doesn't want to tell you because it's a riddle! Shhh...</p>
-      <p> 📫 How to reach me: <a style="color: transparent" href="mailto:santree122@gmail.com">gmail</a> / <a style="color: transparent" href="https://t.me/santree122">telegram</a></p>
+      <p><-------- He is an enigma. Shhh...</p>
+      <p> 📫 How to reach me: <a href="mailto:santree122@gmail.com"><font color="transparent">gmail</font></a> / <a style="color: transparent" href="https://t.me/santree122"><font color="transparent">telegram</font></a></p>
     </div>
     <div style="flex: 1;"> 
       <picture>
