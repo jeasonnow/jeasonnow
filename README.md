@@ -3,10 +3,8 @@
 <html>
   <table style="display: flex; flex-direction: row;">
     <div style="flex: 1;">
-      <p>🔭 I’m currently working on Typescript/React/Python. </p>
-      <p>🌱 I’m currently learning to live for my interests.</p>
-      <p>👯 I’m looking to collaborate on <a href="https://github.com/langchain-ai/langchainjs">langchainjs</a> / <a href="https://github.com/tw93/pake">Pake</a>.</p>
-      <p> 📫 How to reach me: <a href="mailto:santree122@gmail.com">gmail</a> / <a href="https://t.me/santree122">telegram</a></p>
+      <p><-------- He doesn't want to tell you because it's a riddle! Shhh...</p>
+      <p> 📫 How to reach me: <a style="color: transparent" href="mailto:santree122@gmail.com">gmail</a> / <a style="color: transparent" href="https://t.me/santree122">telegram</a></p>
     </div>
     <div style="flex: 1;"> 
       <picture>
